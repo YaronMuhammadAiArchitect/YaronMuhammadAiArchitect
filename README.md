@@ -3,7 +3,7 @@
 <h2>👨‍💻 AI Security Projects:</h2>
 
 - <b>AI Governance Risk and Compliance using IBM Wastonx </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [IBM Watsonx](https://github.com/YaronMuhammadAiArchitect/AiGovernance)
 - <b>AI Project Under Construction</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>AI Project Under Construction</b>
