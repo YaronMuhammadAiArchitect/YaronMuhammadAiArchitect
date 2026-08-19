@@ -5,7 +5,7 @@
 - <b>AI Governance Risk and Compliance using IBM Wastonx </b>
   - [IBM Watsonx](https://github.com/YaronMuhammadAiArchitect/AiGovernance)
 - <b>AI LLM Prompt Injection & Guardrail Pipeline Mitigation</b>
-  - [Image Analysis Middleware](https://github.com/YaronMuhammadAiArchitect/LLM-Prompt-Injection-Guardrail-Pipeline-Mitigation/blob/main/README.md) <b><i></b></i>
+  - [LLM Prompt Injection Mitigation](https://github.com/YaronMuhammadAiArchitect/LLM-Prompt-Injection-Guardrail-Pipeline-Mitigation/blob/main/README.md) <b><i></b></i>
 - <b>AI Project Under Construction</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
     
