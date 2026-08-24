@@ -6,17 +6,17 @@
   - [IBM Watsonx](https://github.com/YaronMuhammadAiArchitect/AiGovernance)
 - <b>AI LLM Prompt Injection & Guardrail Pipeline Mitigation</b>
   - [LLM Prompt Injection Mitigation](https://github.com/YaronMuhammadAiArchitect/LLM-Prompt-Injection-Guardrail-Pipeline-Mitigation/blob/main/README.md) <b><i></b></i>
-- <b>AI Project Under Construction</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Threat Model/MAESTRO Framework/ Threat Intel RAG Pipeline</b>
+  - [Threat Model/MAESTRO Framework/ Threat Intel RAG Pipeline](https://github.com/YaronMuhammadAiArchitect/ThreatModelingMaestroFrameworkThreatIntelRagPipeline/edit/main/README.md)
     
     
     
-- <b>AI Project Under Construction</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Under Construction</b>
+  - [Under Construction](https://github.com/joshmadakor1/EncrypterPOC)
     
 
 - <b>AI Project Under Construction</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Under Construction](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
     
 <h2>📜Certifications</h2>
        -<b> ISC2 Certification:  CISSP - Certified Information Systems Security Professional</b><br>
