@@ -7,7 +7,7 @@
 - <b>AI LLM Prompt Injection & Guardrail Pipeline Mitigation</b>
   - [LLM Prompt Injection Mitigation](https://github.com/YaronMuhammadAiArchitect/LLM-Prompt-Injection-Guardrail-Pipeline-Mitigation/blob/main/README.md) <b><i></b></i>
 - <b>Threat Model/MAESTRO Framework/ Threat Intel RAG Pipeline</b>
-  - [Threat Model/MAESTRO Framework/ Threat Intel RAG Pipeline](https://github.com/YaronMuhammadAiArchitect/ThreatModelingMaestroFrameworkThreatIntelRagPipeline/edit/main/README.md)
+  - [Threat Model/MAESTRO Framework/ Threat Intel RAG Pipeline](https://github.com/YaronMuhammadAiArchitect/ThreatModelingMaestroFrameworkThreatIntelRagPipeline/blob/main/README.md)
     
     
     
