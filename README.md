@@ -12,11 +12,11 @@
     
     
 - <b>Under Construction</b>
-  - [Under Construction](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Under Construction](https://)
     
 
 - <b>AI Project Under Construction</b>
-  - [Under Construction](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Under Construction](https://)
     
 <h2>📜Certifications</h2>
        -<b> ISC2 Certification:  CISSP - Certified Information Systems Security Professional</b><br>
