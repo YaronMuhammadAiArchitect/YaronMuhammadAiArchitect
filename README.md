@@ -11,8 +11,8 @@
     
     
     
-- <b>Under Construction</b>
-  - [Under Construction](https://)
+- <b>Secure Azure OpenAI LLM</b>
+  - [Secure Azure OpenAI LLM](https://github.com/YaronMuhammadAiArchitect/Securing-Azure-OpenAI-LLM/blob/main/README.md)
     
 
 - <b>AI Project Under Construction</b>
